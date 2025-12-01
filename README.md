@@ -47,7 +47,7 @@ This challenge is designed for beginners and intermediate learners who want to *
 ## 📦 Folder Structure
 
 ```
-30-Days-DevOps-Challenge/
+10-Days-DevOps-Challenge/
 │
 ├── Day-01_Introduction-to-DevOps/
 ├── Day-02_Linux-Basics/
